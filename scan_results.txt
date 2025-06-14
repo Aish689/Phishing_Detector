@@ -1,0 +1,6 @@
+https://secure-login.example.com - Contains keyword 'login'
+http://192.168.1.1/login - Contains keyword 'login'
+https://example.com/account-update - Contains keyword 'update'
+https://normalwebsite.com/home - Safe
+http://example.com@malicious.com - Contains '@' symbol
+https://verylongurl.com/this/is/a/very/long/url/path/to/page - Too many subdomains/folders

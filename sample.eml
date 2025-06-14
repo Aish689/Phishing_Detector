@@ -1,0 +1,12 @@
+From: sender@example.com
+To: receiver@example.com
+Subject: Important Account Update
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>Your account needs verification. Please click below:</p>
+    <a href="https://fakebank.com/login">Verify Account</a>
+    <p>Or visit <a href="https://safe-bank.com/home">Safe Bank</a> instead.</p>
+  </body>
+</html>

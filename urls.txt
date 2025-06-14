@@ -1,0 +1,14 @@
+https://secure-login.example.com
+http://192.168.1.1/login
+https://example.com/account-update
+https://normalwebsite.com/home
+http://example.com@malicious.com
+https://verylongurl.com/this/is/a/very/long/url/path/to/page
+https://secure-login.example.com
+http://192.168.1.1/login
+https://example.com/account-update
+https://normalwebsite.com/home
+http://example.com@malicious.com
+https://verylongurl.com/this/is/a/very/long/url/path/to/page
+https://safe-website.org
+http://update-account.example.net
